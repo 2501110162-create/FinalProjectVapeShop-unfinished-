@@ -1,0 +1,35 @@
+001, X-1 Fresh Forest (Super Mint), 560.00, 5
+002, X-1 Pink Air (Melon Yakult), 560.00, 12
+003, X-1 Black Tornado (Black Current), 560.00, 4
+004, X-1 Tropical Storm (Triple Mango), 560.00, 15
+005, X-1 Polar Glacier (Lychee Ice), 560.00, 1
+006, X-3 Fresh Forest (Super Mint), 560.00, 9
+007, X-3 Pink Air(Melon Yakult), 560.00, 3
+008, X-3 Black Tornado (Black Current), 560.00, 11
+009, X-3 Tropical Storm (Triple Mango), 560.00, 6
+010, X-3 Polar Glacier (Lychee Ice), 560.00, 14
+011, x-5 Fresh Forest (Super Mint), 560.00, 2
+012, X-5 Pink Air (Melon Yakult), 560.00, 10
+013, X-5 Black Tornado (Black Current), 560.00, 8
+014, X-5 Tropical Storm (Triple Mango), 560.00, 5
+015, X-5 Polar Glacier (Lychee Ice), 560.00, 13
+016, X-6 Black Tornado (Black Current), 560.00, 7
+017, X-6 Fresh Forest (Super Mint), 560.00, 11
+018, X-6 Pink Air (Melon Yakult), 560.00, 4
+019, X-6 Tropical Storm (Triple Mango), 560.00, 9
+020, X-6 Polar Glacier (Lychee Ice), 560.00, 2
+021, X-6 Purple Echo (Grapes), 560.00, 15
+022, X-6 Summer Breeze (Watermelon), 560.00, 6
+023, Ultra Summer Dew (Watermelon), 430.00, 8
+024, Ultra Violet Stream (Black Current), 430.00, 1
+025, Ultra Purple Twilight (Grapes), 430.00, 10
+026, Ultra Morning Garden (Strawberry), 430.00, 3
+027, Ultra Cold Breeze (Menthol), 430.00, 14
+028, Ultra Cloud Springing (Yakult), 430.00, 5
+029, Ultra Wild Fragrance (Mixed Berry), 430.00, 13
+030, Ultra Bubble Dream (Bubble Gum), 430.00, 9
+031, X-6 Battery (Standard), 350.00, 12
+032, Ultra Battery (Metallic Pink), 350.00, 7
+033, Ultra Batter (Metallic Gray), 350.00, 2
+034, Ultra Battery (Metallic Silver), 350.00, 11
+035, Ultra Battery (Metallic Blue), 350.00, 4
